@@ -1,0 +1,26 @@
+body {
+	background-color: #334551; 
+	color: white;
+	font-family: sans-serif;
+}
+
+b {
+	color: pink;
+}
+
+
+hr {
+	color: white
+}
+
+a{
+	color: yellow;
+}
+
+a:visited {
+	color: yellow;
+}
+
+a:hover {
+	color: red;
+}
